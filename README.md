@@ -79,7 +79,7 @@ If `justice.compclassnotes.com` is already hosted somewhere else, you can upload
 
 ## Credits
 
-**Production Team:** Principal Investigator: Lucval · Oversight Directorate: Zil · Editors: Dara, Lucia, Zil · Software: FreeFormer · Agent: Kirari-chan (キラリちゃん)
+**Production Team:** Principal Investigator: Lucval · Editors: Dara, Lucia · Software: FreeFormer · Agent: Kirari-chan (キラリちゃん)
 
 Adapted from *Cartels: Definitions and Real Cases, 1986–2026* (13 November 2026). Character speech by the anonymous "suits" is dramatized; every fact is footnoted to its source inside the comic.
 
